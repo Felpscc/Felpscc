@@ -76,6 +76,6 @@ Confira alguns dos projetos que demonstram minhas habilidades:
 
 | Plataforma | Detalhe |
 | :--- | :--- |
-| **Email** | [cite_start][felps_cc_@outlook.com](mailto:felps_cc_@outlook.com) [cite: 2] |
-| **GitHub** | [cite_start][github.com/Felpscc](https://github.com/Felpscc) [cite: 2] |
-| **LinkedIn** | *(Adicione o link do seu perfil aqui)* |
+| **Email** | [felps_cc_@outlook.com](mailto:felps_cc_@outlook.com)  |
+| **GitHub** | [github.com/Felpscc](https://github.com/Felpscc)  |
+| **LinkedIn** | [linkedin.com/in/felipe-cc](https://www.linkedin.com/in/felipe-cc) |
