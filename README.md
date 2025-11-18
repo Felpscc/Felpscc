@@ -6,13 +6,13 @@
 
 ### 💡 Sobre Mim
 
-[cite_start]Como estudante de Ciência da Computação, busco aplicar minhas habilidades em tratamento de dados, modelagem e automação para apoiar decisões baseadas em dados[cite: 9]. Tenho experiência prática em:
+Como estudante de Ciência da Computação, busco aplicar minhas habilidades em tratamento de dados, modelagem e automação para apoiar decisões baseadas em dados. Tenho experiência prática em:
 
-* [cite_start]**Automação e Integração de Dados:** Desenvolvimento de scripts em Python para ETL e integração entre bancos de dados (SQL Server, MySQL) e planilhas Excel[cite: 6, 7].
-* [cite_start]**Análise e Visualização:** Criação de relatórios e dashboards interativos utilizando Power BI e Excel Avançado[cite: 7, 19].
-* [cite_start]**Desenvolvimento de APIs:** Conhecimento na criação de APIs RESTful com Node.js e Express para gerenciamento de dados[cite: 8, 17].
+* **Automação e Integração de Dados:** Desenvolvimento de scripts em Python para ETL e integração entre bancos de dados (SQL Server, MySQL) e planilhas Excel.
+* **Análise e Visualização:** Criação de relatórios e dashboards interativos utilizando Power BI e Excel Avançado.
+* **Desenvolvimento de APIs:** Conhecimento na criação de APIs RESTful com Node.js e Express para gerenciamento de dados.
 
-[cite_start]Estou no 7º semestre do Bacharelado em Ciência da Computação na Universidade Cruzeiro do Sul [cite: 11, 12] [cite_start]e busco uma oportunidade de Estágio na área de Análise ou Engenharia de Dados[cite: 4].
+[cite_start]Estou no 7º semestre do Bacharelado em Ciência da Computação na Universidade Cruzeiro do Sul e busco uma oportunidade de Estágio na área de Análise ou Engenharia de Dados[cite: 4].
 
 ---
 
@@ -40,7 +40,7 @@ Minhas principais competências envolvem Linguagens e Bibliotecas focadas em tra
   <a href="#"><img src="https://img.shields.io/badge/AWS_Fundamentals-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Fundamentals" /></a>
 </p>
 
-[cite_start]**Outras Competências:** `openpyxl`, `pyodbc`, `Node.js`, `Express`, `Data Cleaning` e `Automação de Processos`[cite: 21, 8].
+**Outras Competências:** `openpyxl`, `pyodbc`, `Node.js`, `Express`, `Data Cleaning` e `Automação de Processos`.
 
 ---
 
@@ -50,17 +50,17 @@ Confira alguns dos projetos que demonstram minhas habilidades:
 
 #### 1. Automação de Extração de Dados (Python + SQL Server)
 
-* [cite_start]Desenvolvimento de script em Python utilizando `pandas`, `openpyxl` e `pyodbc`[cite: 15].
-* [cite_start]Objetivo: Exportação automática de dados SQL para planilhas Excel formatadas, reduzindo significativamente o tempo de atualização de relatórios manuais[cite: 15].
+* Desenvolvimento de script em Python utilizando `pandas`, `openpyxl` e `pyodbc`.
+* Objetivo: Exportação automática de dados SQL para planilhas Excel formatadas, reduzindo significativamente o tempo de atualização de relatórios manuais.
 
 #### 2. API RESTful de Consultas Médicas (Node.js + MySQL)
 
-* [cite_start]Criação de uma API com Express para gerenciar entidades (pacientes, médicos, prontuários e consultas)[cite: 17].
-* [cite_start]Rotas otimizadas para operações CRUD (Create, Read, Update, Delete) completas, testadas via Thunder Client[cite: 17].
+* Criação de uma API com Express para gerenciar entidades (pacientes, médicos, prontuários e consultas).
+* Rotas otimizadas para operações CRUD (Create, Read, Update, Delete) completas, testadas via Thunder Client.
 
 #### 3. Dashboard Interativo (Power BI)
 
-* [cite_start]Criação de dashboards a partir de bases SQL e planilhas Excel, com foco em filtros dinâmicos e indicadores personalizados[cite: 19].
+* Criação de dashboards a partir de bases SQL e planilhas Excel, com foco em filtros dinâmicos e indicadores personalizados.
 
 ---
 
