@@ -12,7 +12,7 @@ Como estudante de Ciência da Computação, busco aplicar minhas habilidades em 
 * **Análise e Visualização:** Criação de relatórios e dashboards interativos utilizando Power BI e Excel Avançado.
 * **Desenvolvimento de APIs:** Conhecimento na criação de APIs RESTful com Node.js e Express para gerenciamento de dados.
 
-[cite_start]Estou no 7º semestre do Bacharelado em Ciência da Computação na Universidade Cruzeiro do Sul e busco uma oportunidade de Estágio na área de Análise ou Engenharia de Dados[cite: 4].
+Estou no 7º semestre do Bacharelado em Ciência da Computação na Universidade Cruzeiro do Sul e busco uma oportunidade de Estágio na área de Análise ou Engenharia de Dados.
 
 ---
 
